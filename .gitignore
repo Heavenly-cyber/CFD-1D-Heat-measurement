@@ -1,0 +1,12 @@
+# CFD-1D-HEAT-BEGIN
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.uv-cache/
+*.tmp
+*~
+.DS_Store
+# CFD-1D-HEAT-END
