@@ -1,0 +1,16 @@
+{
+  "problem": "steady 1-D conduction, d2T/dx2=0",
+  "grid_size": 21,
+  "length_m": 1.0,
+  "dx_m": 0.05,
+  "iterations": 1032,
+  "max_iterations": 50000,
+  "convergence_tolerance_K": 1e-10,
+  "converged": true,
+  "max_update_K": 9.868017514236271e-11,
+  "max_unscaled_residual_K": 9.868017514236271e-11,
+  "max_pde_residual_K_per_m2": 3.947207005694508e-08,
+  "max_error_K": 3.932882464141585e-09,
+  "left_boundary_K": 300.0,
+  "right_boundary_K": 1000.0
+}
